@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SampleWearUI</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+
+    <!-- WidgetName -->
+    <string name="box_inset_layout">BoxInsetLayout</string>
+    <string name="card_fragment">CardFragment</string>
+    <string name="custom_card_fragment">CustomCardFragment</string>
+    <string name="circled_image_view">CircledImageView</string>
+    <string name="confirmation_activity">ConfirmationActivity</string>
+    <string name="dismiss_overlay_view">DismissOverlayView</string>
+    <string name="grid_view_pager">GridViewPager</string>
+    <string name="title_activity_box_inset_layout">BoxInsetLayoutActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_card">CardActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_custom_card">CustomCardActivity</string>
+    <string name="title_activity_circled_image_view">CircledImageViewActivity</string>
+    <string name="confirm_success">Success!!</string>
+    <string name="confirm_failure">Failure...</string>
+    <string name="confirm_open_phone">Open Phone</string>
+    <string name="title_activity_dismiss_overlay_view">DismissOverlayViewActivity</string>
+    <string name="please_long_press">Please long press for show overlay view</string>
+    <string name="title_activity_grid_view_pager">GridViewPagerActivity</string>
+
+</resources>
